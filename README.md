@@ -1,0 +1,1 @@
+A simple project to practice the use of GET, POST, and DELETE.
